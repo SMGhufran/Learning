@@ -1,2 +1,3 @@
 # Learning
-This repository is for my learning purposes.
+- This repository is for my learning purposes.
+
